@@ -1,4 +1,3 @@
-# Implementation
 # Face Parsing using U-Net Architecture
 
 ## 📌 Project Overview
@@ -30,6 +29,3 @@ This model has practical applications in various domains, including:
 * **Face Editing & Retouching:** Automated makeup application and skin smoothing.
 * **Face Generation:** Conditional GANs and avatar creation.
 * **Medical Imaging:** The underlying U-Net architecture is also applicable to medical segmentation tasks (e.g., CT scans, Thyroid nodule detection).
-
----
-*Developed as part of a research project on Image Segmentation techniques.*
